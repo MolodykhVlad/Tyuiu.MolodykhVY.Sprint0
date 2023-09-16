@@ -10,7 +10,7 @@ namespace Tyuiu.MolodykhVY.Sprint0.Task2.V0.Lib
     {
         public static string GetMassage(string name)
         {
-            return $"Привет..., {name}";
+            return $"Привет...., {name}";
         }
     }
 }
