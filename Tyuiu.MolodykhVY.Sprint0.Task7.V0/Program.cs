@@ -43,7 +43,7 @@ namespace Tyuiu.MolodykhVY.Sprint0.Task7.V0
             }
             Console.WriteLine();
             Console.WriteLine("***************************************************************************");
-            Console.WriteLine("* РЕЗУЛЬТАТ:                                                               ");
+            Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
             if (arrayNums1.Length == arrayNums2.Length)
             {
